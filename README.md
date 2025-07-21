@@ -1,6 +1,6 @@
-# Eduardo Policarpo 👋
+# Eduardo Policarpo
 
-**IT Technical Support | Em transição para Desenvolvimento (Java | Angular | AWS)**
+**IT Technical Support | Em transição para Desenvolvimento (Java | Spring Boot | Angular)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardopolicarpotechsupport)
 [![Repositórios](https://img.shields.io/badge/GitHub-Repositórios-grey?style=flat-square&logo=github)](https://github.com/edupoli?tab=repositories)
@@ -10,15 +10,16 @@
 
 ## 💼 Sobre mim
 
-Profissional com sólida experiência em suporte técnico, especializado em **ERP, Time & Attendance**, com atuação em **SQL, Zendesk, JIRA**. Atualmente migrando para desenvolvimento, estou estudando:
+Profissional com sólida experiência em suporte técnico, especializado em **ERP, Time & Attendance**, com atuação em **SQL, Zendesk, JIRA**. Atualmente migrando para desenvolvimento:
 
-- Java + Spring Boot  
-- Angular + JavaScript  
-- AWS (Cloud fundamentals)  
+- Java
+- Spring Boot  
+- Angular
+- JavaScript  
+- AWS (Cloud fundamentals)
+- API
 
-Apaixonado por resolver problemas, otimizar processos e aprender continuamente.
-
-> *“Consistência é melhor que intensidade.”*
+Grandes ferramentas trazem grandes possiblidades.
 
 ---
 
