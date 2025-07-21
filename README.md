@@ -10,7 +10,7 @@
 
 ## 💼 Sobre mim
 
-Profissional com sólida experiência em suporte técnico, especializado em **ERP, Time & Attendance**, com atuação em **SQL, Zendesk, JIRA** :contentReference[oaicite:3]{index=3}. Atualmente migrando para desenvolvimento, estou estudando:
+Profissional com sólida experiência em suporte técnico, especializado em **ERP, Time & Attendance**, com atuação em **SQL, Zendesk, JIRA**. Atualmente migrando para desenvolvimento, estou estudando:
 
 - Java + Spring Boot  
 - Angular + JavaScript  
