@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Profissional com sólida experiência em suporte técnico em sistemas **ERP**, **controle de ponto (Time & Attendance)**, **SLA/ANS**, banco de dados (**SQL Server, Oracle, PostgreSQL**) e ferramentas como **Zendesk** e **JIRA**.
+Profissional com sólida experiência em suporte técnico em sistemas **ERP**, **Gestão de Pessoas (Controle de Ponto e Refeitório)**, **SLA/ANS**, consulta em banco de dados (**SQL Server, Oracle, PostgreSQL**) e ferramentas como **Zendesk** e **JIRA**.
 
 Atualmente em transição de carreira para **desenvolvimento backend**, com foco em:
 
