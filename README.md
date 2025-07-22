@@ -1,6 +1,6 @@
 # Eduardo Policarpo
 
-**IT Support Analyst | Em transição para Desenvolvimento Java & Cloud**
+**IT Support Analyst | Em transição para Desenvolvimento Backend: Java | Spring Boot | Angular**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopolicarpotechsupport)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.seuemail@gmail.com)
@@ -12,12 +12,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-Profissional com sólida experiência em suporte técnico, com foco em sistemas **ERP**, **controle de ponto (Time & Attendance)**, **SLA/ANS**, banco de dados (**SQL Server, Oracle, PostgreSQL**) e ferramentas como **Zendesk** e **JIRA**.
+Profissional com sólida experiência em suporte técnico em sistemas **ERP**, **controle de ponto (Time & Attendance)**, **SLA/ANS**, banco de dados (**SQL Server, Oracle, PostgreSQL**) e ferramentas como **Zendesk** e **JIRA**.
 
 Atualmente em transição de carreira para **desenvolvimento backend**, com foco em:
 
-- Java + Spring Boot  
-- Angular + JavaScript  
+- Java
+- Spring Boot  
+- Angular
+- JavaScript  
 - APIs REST e autenticação  
 - Cloud Computing (AWS)
 
