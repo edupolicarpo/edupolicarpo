@@ -1,4 +1,4 @@
-# Eduardo Policarpo 👋
+# Eduardo Policarpo
 
 **IT Support Analyst | Em transição para Desenvolvimento Backend: Java | Spring Boot | Angular**
 
